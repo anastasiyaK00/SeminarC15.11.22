@@ -20,5 +20,5 @@ for(int i=0;i<n;i++)
     if (a==10) flag=true;
 }
 System.Console.WriteLine(k);
-if (flag==true) System.Console.WriteLine("Yeeees");
+if (flag==true) System.Console.WriteLine("Yeeees"); //Если "!"поставить перед !flag, то получится наоборот не равно, т.е false///
 else System.Console.WriteLine("Noo");
